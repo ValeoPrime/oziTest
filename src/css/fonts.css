@@ -1,0 +1,25 @@
+
+
+@font-face {
+	font-family: 'GothamPro';
+	src: url('../fonts/GothamPro.woff') format('woff'), 
+		 url('../fonts/GothamPro.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'GothamPro-Black';
+	src: url('../fonts/GothamPro-Black.woff') format('woff'), 
+		 url('../fonts/GothamPro-Black.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+	src: url('../fonts/Montserrat-Regular.woff') format('woff'),
+		 url('../fonts/Montserrat-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    }
